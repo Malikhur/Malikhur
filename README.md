@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Malikhur
 - 👀 I’m interested in Data Science,Machine Learning,Web development
 - 🌱 I’m currently learning Mern stack, Python
-- 💞️ I’m looking to collaborate on anything
+- 💞️ I’m looking to collaborate on awesome projects
 - 📫 How to reach me ghulamhur011@gmail.com
 
 <!---
