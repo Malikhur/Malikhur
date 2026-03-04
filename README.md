@@ -13,8 +13,8 @@ Senior Software Engineer specializing in full stack development with a strong tr
 ## Technical Skills
 
 **Frontend**
-- React.js, Next.js, TypeScript, JavaScript (ES6+)
-- HTML5, CSS3, Tailwind CSS, SASS
+- React.js, Next.js, Vue.js, TypeScript, JavaScript (ES6+)
+- HTML5, CSS3, Tailwind CSS, SASS, Material UI
 
 **Backend**
 - Node.js, Express.js, REST APIs, GraphQL
@@ -31,7 +31,7 @@ Senior Software Engineer specializing in full stack development with a strong tr
 
 ## Contact
 
-- LinkedIn: [[linkedin.com/in/your-profile](https://www.linkedin.com/in/malikghulamhur/)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/malikghulamhur/))
+- LinkedIn: https://www.linkedin.com/in/malikghulamhur/
 - Email: hurmalik13@gmail.com
 
 ---
